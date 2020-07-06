@@ -55,7 +55,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 -  [VS Code][vc] with [ESLint][vceslint]
 
 ## :memo: License
-This project is under the MIT license. See the [LICENSE](https://github.com/lukemorales/gobarber-api/blob/master/LICENSE) for more information.
+This project is under the MIT license. See the [LICENSE](https://github.com/felipe-jm/gobarber-backend-typescript/blob/master/LICENSE) for more information.
 
 ---
 
